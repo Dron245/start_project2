@@ -1,0 +1,22 @@
+.qwe {
+		
+		height: 100%; 
+		width: 540px;
+		border-bottom: 540px solid #FFE344;
+		border-left: 108.5px solid transparent;
+		border-right: 108.5px solid transparent;
+		transform: rotate(90deg);
+		/* outline: 1px solid blue; */
+}
+p {
+	position: absolute;
+}
+
+.t2 {
+	background: url(../Img/Rectangle\ 1.png) top / cover no-repeat ;
+	height: 540px;
+	width: 100%;
+
+	margin-top: -100px;
+	position: relative;
+}
